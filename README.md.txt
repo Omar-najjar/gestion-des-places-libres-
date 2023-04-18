@@ -30,3 +30,4 @@ sudo apt-get install python3-tflite-runtime
 <b>Step 5.</b> Run real time detections using the detect.py script
 <pre>python3 detect.py</pre>
 <br/><br/>
+test
